@@ -1,0 +1,5 @@
+coursera link:
+https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone/lecture/a7K6R/best-practices-for-prompt-creation
+
+github link:
+https://github.com/Chumasande-Dev
